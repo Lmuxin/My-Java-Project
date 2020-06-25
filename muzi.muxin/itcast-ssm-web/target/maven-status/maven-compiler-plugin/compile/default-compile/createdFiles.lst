@@ -1,0 +1,7 @@
+muzi\muxin\controller\UserController.class
+muzi\muxin\controller\RoleController.class
+muzi\muxin\controller\LogAOP.class
+muzi\muxin\controller\OrderController.class
+muzi\muxin\controller\ProductController.class
+muzi\muxin\controller\PermissionController.class
+muzi\muxin\controller\SysLogController.class

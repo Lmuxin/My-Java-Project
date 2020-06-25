@@ -1,0 +1,8 @@
+muzi\muxin\dao\RoleDao.class
+muzi\muxin\dao\PermissionDao.class
+muzi\muxin\dao\SysLogDao.class
+muzi\muxin\dao\UserDao.class
+muzi\muxin\dao\MemberDao.class
+muzi\muxin\dao\ProductDao.class
+muzi\muxin\dao\TravellerDao.class
+muzi\muxin\dao\OrderDao.class
